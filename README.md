@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Ritobroto-Mukherjee-yellow?labelColor=blue)
 
-# Hello Rails
+# Hello MongoDB
 
 > It's a simply `MongoDB` commands for DB create, CRUD etc operations.
 
